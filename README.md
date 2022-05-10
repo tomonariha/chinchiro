@@ -1,5 +1,6 @@
 # Chinchiro
 Chinchiro is one of dice game.
+![chinchiro](https://user-images.githubusercontent.com/96340764/167636581-bc179b0e-3629-4780-93bb-51472111a2be.gif)
 ## Installation
 `npm install chinchiro`
 ## Usage
@@ -17,4 +18,4 @@ Chinchiro is one of dice game.
 |Jigoro|4,5,6|x2|4&5&6 combinations.| 
 |◯nome|☆,☆,○|x1|One pair & remaining combination.　Remaining dice is strength.<br> Strong in order from 6 to 1.|
 |Menasi|others|x1|Make no role all 3times.|
-|Hifumi|1,2,3|x-2|1&2&3 combination. the weakest & negative role.|
+|Hifumi|1,2,3|x-2|1&2&3 combination. The weakest & negative role.|

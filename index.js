@@ -218,7 +218,7 @@ class Game {
   }
 
   async decide_action () {
-    const actions = ['throw dice', 'ikasama', 'surrender', 'pass']
+    const actions = ['throw dice', 'ikasama', 'pass', 'surrender']
     const question = {
       type: 'select',
       name: 'action',
