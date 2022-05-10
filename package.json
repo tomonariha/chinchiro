@@ -1,0 +1,30 @@
+{
+  "name": "chinchiro",
+  "version": "1.0.0",
+  "description": "Dice game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ "
+  },
+  "keywords": [
+    "dice",
+    "chinchirorin",
+    "game",
+    "cli"
+  ],
+  "author": "Tomonari",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-escape-sequences": "^6.2.1",
+    "enquirer": "^2.3.6"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
