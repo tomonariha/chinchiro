@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ "
+    "url": "git+https://github.com/tomonariha/chinchiro"
   },
   "keywords": [
     "dice",
@@ -13,8 +13,12 @@
     "game",
     "cli"
   ],
-  "author": "Tomonari",
+  "author": "tomonari",
   "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/tomonariha/chinchiro/issues"
+  },
+  "homepage": "https://github.com/tomonariha/chinchiro",
   "dependencies": {
     "ansi-escape-sequences": "^6.2.1",
     "enquirer": "^2.3.6"

@@ -4,7 +4,7 @@ Chinchiro is one of dice game.
 ## Installation
 `npm install chinchiro`
 ## Usage
-`node index.js`
+`chinchiro`
 ## Rules
 - Roll 3dices to make role. The stronger one is wins.
 - Dealers takes turns. Can pass if you don't like it.
