@@ -1,8 +1,11 @@
 {
   "name": "chinchiro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dice game",
   "main": "index.js",
+  "bin": {
+    "chinchiro": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tomonariha/chinchiro"

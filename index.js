@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import Enquirer from 'enquirer'
 import ansi from 'ansi-escape-sequences'
 import { User } from './user.mjs'
